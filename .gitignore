@@ -1,0 +1,5 @@
+.sixth/
+.vscode/
+.idea/
+*.log
+create_pure_human_commits.js
