@@ -6,3 +6,4 @@
 - [2026-05-01] feat(auth): outline user role constants
 - [2026-05-01] test(database): prepare database connectivity tests
 - [2026-05-04] feat(auth): design session storage structure
+- [2026-05-07] feat(auth): add initial logout handler
