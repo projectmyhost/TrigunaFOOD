@@ -10,3 +10,4 @@
 - [2026-05-07] feat(auth): implement complete session destruction on logout
 - [2026-05-07] security(auth): invalidate session cookies upon sign out
 - [2026-05-07] test(auth): verify redirection after logout
+- [2026-05-12] feat(media): add brand identity images and banners
