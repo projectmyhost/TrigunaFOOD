@@ -12,3 +12,4 @@
 - [2026-05-07] test(auth): verify redirection after logout
 - [2026-05-12] feat(media): add brand identity images and banners
 - [2026-05-12] style(ui): format branding asset layout
+- [2026-05-15] feat(payment): add static payment qr asset
