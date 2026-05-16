@@ -15,3 +15,4 @@
 - [2026-05-15] feat(payment): add static payment qr asset
 - [2026-05-15] feat(media): initialize product upload samples
 - [2026-05-15] refactor(media): optimize image directory permissions
+- [2026-05-16] feat(config): finalize database connection and utf8mb4 charset
