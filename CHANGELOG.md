@@ -18,3 +18,4 @@
 - [2026-05-16] feat(config): finalize database connection and utf8mb4 charset
 - [2026-05-16] test(database): add database connection test utility
 - [2026-05-16] refactor(config): update mysqli connection parameters
+- [2026-05-16] test(database): verify connection handling with laragon mysql
