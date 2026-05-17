@@ -20,3 +20,4 @@
 - [2026-05-16] refactor(config): update mysqli connection parameters
 - [2026-05-16] test(database): verify connection handling with laragon mysql
 - [2026-05-16] docs(database): add database credentials setup guide
+- [2026-05-17] feat(media): implement image cropper test page using cropperjs
