@@ -22,3 +22,4 @@
 - [2026-05-16] docs(database): add database credentials setup guide
 - [2026-05-17] feat(media): implement image cropper test page using cropperjs
 - [2026-05-17] feat(media): add crop canvas export to jpeg format
+- [2026-05-17] style(media): adjust cropper viewport aspect ratio
