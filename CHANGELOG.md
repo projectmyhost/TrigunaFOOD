@@ -29,3 +29,4 @@
 - [2026-05-19] feat(catalog): create product listing and catalog view
 - [2026-05-19] feat(category): add category sync, update and attribute fix utilities
 - [2026-05-19] feat(category): add category completion helper
+- [2026-05-19] feat(category): add interactive category setup html interface
