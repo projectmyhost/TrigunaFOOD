@@ -27,3 +27,4 @@
 - [2026-05-19] feat(database): implement automated database schema migration script
 - [2026-05-19] feat(category): add category feature registration and verification
 - [2026-05-19] feat(catalog): create product listing and catalog view
+- [2026-05-19] feat(category): add category sync, update and attribute fix utilities
