@@ -26,3 +26,4 @@
 - [2026-05-17] refactor(media): sanitize uploaded file names
 - [2026-05-19] feat(database): implement automated database schema migration script
 - [2026-05-19] feat(category): add category feature registration and verification
+- [2026-05-19] feat(catalog): create product listing and catalog view
