@@ -32,3 +32,4 @@
 - [2026-05-19] feat(category): add interactive category setup html interface
 - [2026-05-19] feat(category): implement category metadata inspection utility
 - [2026-05-19] feat(auth): implement user inspection, role updates and role finalization
+- [2026-05-20] docs(category): add quick start guide and demo showcase utility
