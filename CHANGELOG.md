@@ -35,3 +35,4 @@
 - [2026-05-20] docs(category): add quick start guide and demo showcase utility
 - [2026-05-20] test(media): implement comprehensive image cropper verification script
 - [2026-05-20] feat(layout): build responsive navbar with dynamic user role badges
+- [2026-05-20] feat(helper): add auxiliary testing script for product pipeline
