@@ -38,3 +38,4 @@
 - [2026-05-20] feat(helper): add auxiliary testing script for product pipeline
 - [2026-05-20] style(layout): refine navigation drawer links and hover states
 - [2026-05-22] feat(admin): build comprehensive admin dashboard management interface
+- [2026-05-22] feat(admin): add inventory stock tracking and order metric cards
