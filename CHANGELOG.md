@@ -43,3 +43,4 @@
 - [2026-05-22] style(admin): modernize administrative data tables and responsive layout
 - [2026-05-26] feat(order): implement order history and status tracking portal
 - [2026-05-26] docs: record animation, smooth transition and wishlist requirements
+- [2026-05-26] feat(home): build modern home view with smooth fade animations
