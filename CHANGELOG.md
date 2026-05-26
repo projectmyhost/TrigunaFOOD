@@ -46,3 +46,4 @@
 - [2026-05-26] feat(home): build modern home view with smooth fade animations
 - [2026-05-26] feat(checkout): implement checkout flow with aesthetic popup modal confirmation
 - [2026-05-26] feat(user): create user profile management with details and password update
+- [2026-05-26] feat(checkout): integrate smooth slider drawer for order review
