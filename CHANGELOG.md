@@ -48,3 +48,4 @@
 - [2026-05-26] feat(user): create user profile management with details and password update
 - [2026-05-26] feat(checkout): integrate smooth slider drawer for order review
 - [2026-05-26] test(checkout): verify order insertion and proof-of-payment upload
+- [2026-05-27] fix(checkout): validate shipping address inputs before processing
