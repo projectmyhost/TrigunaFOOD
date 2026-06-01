@@ -51,3 +51,4 @@
 - [2026-05-27] fix(checkout): validate shipping address inputs before processing
 - [2026-05-27] style(home): implement fade in and fade out on scroll up and down
 - [2026-06-01] refactor(auth): overhaul login portal with responsive card and password hashing
+- [2026-06-01] refactor(auth): overhaul user registration with real-time validation
