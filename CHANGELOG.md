@@ -53,3 +53,4 @@
 - [2026-06-01] refactor(auth): overhaul login portal with responsive card and password hashing
 - [2026-06-01] refactor(auth): overhaul user registration with real-time validation
 - [2026-06-01] security(auth): sanitize credential inputs and protect against sql injection
+- [2026-06-01] style(auth): polish modern input fields and login button interactions
