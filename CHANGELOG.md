@@ -55,3 +55,4 @@
 - [2026-06-01] security(auth): sanitize credential inputs and protect against sql injection
 - [2026-06-01] style(auth): polish modern input fields and login button interactions
 - [2026-06-01] test(auth): run end-to-end authentication lifecycle verification
+- [2026-06-04] style(navbar): refine active menu indicators and mobile dropdown
