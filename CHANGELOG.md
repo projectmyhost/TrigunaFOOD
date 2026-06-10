@@ -58,3 +58,4 @@
 - [2026-06-04] style(navbar): refine active menu indicators and mobile dropdown
 - [2026-06-04] fix(cart): prevent accidental duplicate order submission
 - [2026-06-10] feat(order): add invoice detail view and payment badge status
+- [2026-06-10] perf(query): index user_id and order_date columns for faster lookups
