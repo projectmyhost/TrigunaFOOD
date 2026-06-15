@@ -62,3 +62,4 @@
 - [2026-06-12] style(order): harmonize table typography and action buttons
 - [2026-06-15] feat(system): run final comprehensive verification checklist
 - [2026-06-15] test(system): verify database relationships and foreign key integrity
+- [2026-06-15] chore: clean up obsolete debugging routines
