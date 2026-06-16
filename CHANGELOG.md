@@ -64,3 +64,4 @@
 - [2026-06-15] test(system): verify database relationships and foreign key integrity
 - [2026-06-15] chore: clean up obsolete debugging routines
 - [2026-06-16] feat(landing): assemble final responsive landing page with dynamic showcase
+- [2026-06-16] style(landing): polish hero typography, scroll animations and featured grid
