@@ -65,3 +65,4 @@
 - [2026-06-15] chore: clean up obsolete debugging routines
 - [2026-06-16] feat(landing): assemble final responsive landing page with dynamic showcase
 - [2026-06-16] style(landing): polish hero typography, scroll animations and featured grid
+- [2026-06-16] release: finalize v3.0 production deployment build
